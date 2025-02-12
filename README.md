@@ -3,7 +3,7 @@
 **Web Engineer | Full-Stack Developer | Software Tester**  
 
 ## 📌 About Me  
-Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, and MongoDB**.  
+Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, Nodejs, Expressjs and MongoDB**.  
 I have a passion for **Front-end & Back-end development** and am always eager to learn new technologies.  
 Skilled in **problem-solving, collaboration, and leveraging Generative AI** to enhance development workflows.  
 
@@ -16,7 +16,7 @@ Skilled in **problem-solving, collaboration, and leveraging Generative AI** to e
 ⚙️ Backend
 <p> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </p>
 🛠️ Testing & Tools
-<p> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> </p>
+<p> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> </p>
 🔧 Other Tools & Methodologies
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Agile-026D9E?style=for-the-badge&logo=scrumalliance&logoColor=white"> <img src="https://img.shields.io/badge/SDLC-4A90E2?style=for-the-badge"> </p>
 
