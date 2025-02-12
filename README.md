@@ -5,7 +5,7 @@
 ## 📌 About Me  
 Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, Nodejs, Expressjs and MongoDB**.  
 I have a passion for **Front-end & Back-end development** and am always eager to learn new technologies.  
-Skilled in **problem-solving, collaboration, and leveraging Generative AI** to enhance development workflows.  
+Skilled in **problem-solving, collaboration** to enhance development workflows.  
 
 ---
 
