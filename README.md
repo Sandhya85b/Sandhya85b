@@ -3,14 +3,14 @@
 # Web Engineer | Full-Stack Developer | Software Tester
 
 ## 📌 About Me
-Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, and MongoDB**.  
+Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, Nodejs, Expressjs and MongoDB**.  
 I have a passion for **Front-end & Back-end development** and am always eager to learn new technologies.  
 Skilled in **problem-solving, collaboration, and leveraging Generative AI** to enhance development workflows.  
 
 ## 📌 Technical Skills  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js, MongoDB  
-- **Testing:** Selenium, JIRA, TestNG, Postman  
+- **Testing:** JIRA, Postman  
 - **Other:** Git, Agile (Scrum), SDLC  
 
 ## 📌 Projects  
