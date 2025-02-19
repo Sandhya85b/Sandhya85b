@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandhya Bonthu  
 
-**Web Engineer | Full-Stack Developer | Software Tester**  
+**Web Engineer | Full-Stack Developer **  
 
 ## 📌 About Me  
 Dynamic and proficient Web Engineer with expertise in **HTML, CSS, JavaScript, Nodejs, Expressjs and MongoDB**.  
